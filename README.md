@@ -1,2 +1,2 @@
-# rsschool-cv
-Cv for Rsschool
+ https://MaxKondratiev.github.io/rsschool-cv/cv
+
